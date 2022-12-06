@@ -43,12 +43,6 @@ body {
 .poster1 {
     display: none;
 }
-/*.poster {
-    display: block;
-    margin: 0 auto;
-    margin-bottom: 20px;
-    border: 1px white solid;
-}*/
 
 .poster1_2 {
     display: block;
@@ -71,15 +65,6 @@ body {
     background-position: bottom;
 }
 
-
-/*.kynning {
-    padding: 60px 10% 10% 10%;
-    background-image: url("air_bubbles.png"), url("ljósstafir.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: bottom;
-}*/
-
 .demographics {
     align-items: center;
     grid-template-columns: 1fr 1fr;
@@ -97,10 +82,6 @@ body {
 
 .throun {
     padding: 40px;
-}
-
-.thrountexti {
-    align-items: center;
 }
 
 .mynd1_2 {
@@ -139,6 +120,13 @@ body {
 }
 
 .belowzerotexti {
+}
+
+.myndband {
+    display: block;
+    margin: 50px auto;
+    aspect-ratio: 16 / 9;
+    width: 80%;
 }
 
 @media screen and (min-width: 37.5em) {
