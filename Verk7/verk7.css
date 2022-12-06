@@ -100,10 +100,7 @@ body {
 }
 
 .thrountexti {
-    display: flex;
-    flex-flow: column;
-    justify-content: center;
-    height: 600px;
+    align-items: center;
 }
 
 .mynd1_2 {
