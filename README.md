@@ -4,8 +4,8 @@
 
 ## Heimildaskrá
 
-Subnautica. (2022). *Wikipedia*. (en.wikipedia.org/wiki/Subnautica)
+Subnautica. (2022). *Wikipedia*. [en.wikipedia.org/wiki/Subnautica](en.wikipedia.org/wiki/Subnautica)
 
-Update History (Subnautica). (2022). *Subnautica Wiki*. (subnautica.fandom.com/wiki/Update_History_(Subnautica))
+Update History (Subnautica). (2022). *Subnautica Wiki*. [subnautica.fandom.com/wiki/Update_History_(Subnautica)](subnautica.fandom.com/wiki/Update_History_(Subnautica))
 
-Subnautica: Below Zero. (2022). *Wikipedia*. (en.wikipedia.org/wiki/Subnautica:_Below_Zero)
+Subnautica: Below Zero. (2022). *Wikipedia*. [en.wikipedia.org/wiki/Subnautica:_Below_Zero](en.wikipedia.org/wiki/Subnautica:_Below_Zero)
